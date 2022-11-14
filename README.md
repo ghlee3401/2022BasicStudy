@@ -1,6 +1,4 @@
 # 2022BasicStudy
-Deeplearning Basic 
-
 ## 딥러닝을 위한 스터디 자료 
 1. **인공지능과 기계학습, 원리와 응용** | 신경식 | 이화여자대학교 
     - URL : http://www.kmooc.kr/courses/course-v1:EwhaK+EW21005K+2022_F18/course/
