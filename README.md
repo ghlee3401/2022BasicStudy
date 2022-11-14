@@ -28,4 +28,4 @@
 ## 추천 커리큘럼 
 |주차|이론|실습|과제|
 :---|:---|:---|:---|
-|1주차|1. Vectors\n1-2. Linear functions|테스트3|강의1</br>강의2|
+|1주차|1-1. Vectors<br>1-2. Linear functions|테스트3|강의1</br>강의2|
