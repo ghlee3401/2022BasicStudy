@@ -34,5 +34,5 @@
 |주차|이론|실습|과제|
 :---:|:---:|:---:|:---:|
 |1주차|1-1. Vectors<br>1-2. Linear functions|02 파이썬 코딩의 기본 재료|-|
-|2주차|1-1. Vectors<br>2-1. Norm and Distance|03 진실 또는 거짓 - 조건문|-|
+|2주차|2-1. Norm and Distance|03 진실 또는 거짓 - 조건문|-|
 |3주차|
